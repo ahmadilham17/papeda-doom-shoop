@@ -1,0 +1,13 @@
+.card p{
+
+    margin-top: -10px;
+    margin-bottom: 1px;
+}
+.row {
+    margin: 5px auto;
+    text-align: justify;
+}
+.row .card:hover{
+    box-shadow: 2px 2px 2px rbga(0,0,0,0,4);
+    transform: scale(1.02);
+}
